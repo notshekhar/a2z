@@ -1,0 +1,1 @@
+app.get('/path', hello);
